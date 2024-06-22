@@ -1,0 +1,1 @@
+elder black dragon, represented by the [[Dragonpact]] against Melinor that recently took back her town in Wolf's mouth
