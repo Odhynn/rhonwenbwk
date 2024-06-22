@@ -8,5 +8,5 @@ clad in pelts and furs of his quarry
 - [[Arshak]] του γυπαετου
 - [[Horra]] της υαινας
 
-blessed with straight modes of thinking
+blessed with hilariously straight modes of thinking
 too innocent for the duplicitous dance of civilised people

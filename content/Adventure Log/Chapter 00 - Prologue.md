@@ -34,7 +34,10 @@ Da says getting near the crater is out of the question, I'd get fried.
 
 ## 5 Nightfall 4818
 
-`Rowena` quarrels with her Da, storms off, knows not where to
+[[Rowena]] quarrels with her Da, storms off, knows not where to
 maybe in the general direction of Merkal
-παπα`Ghorrek` tags along
+παπα-[[Ghorrek]] tags along
 
+---
+
+next up: [[Chapter 01 - Kemilia]]

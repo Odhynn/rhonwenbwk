@@ -38,7 +38,7 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)", // internal link background, highlighted text
         },
         darkMode: {
-          light: "#1C1F20",
+          light: "#1d2021",
           lightgray: "#3C3836",
           gray: "#928373",
           darkgray: "#EBDBB1",

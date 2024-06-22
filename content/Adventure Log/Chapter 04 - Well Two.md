@@ -17,9 +17,9 @@ the walls press inwards
 > dispatched in 3 rounds with no damage to the party
 
 > [!danger] 8 Leopards
-> chokepoint on the door, `Tukai` rushes, cuts in front of R
-> they pour through, `Urist` takes a beating but heals back up
-> `Tukai` beastforms into hyena man
+> chokepoint on the door, [[Tukai]] rushes, cuts in front of R
+> they pour through, [[Urist]] takes a beating but heals back up
+> [[Tukai]] beastforms into hyena man
 > > bad hair day, eh?
 >  
 > > [!info] stasis leopards
@@ -32,31 +32,31 @@ the walls press inwards
 
 
 > [!danger] Chupacabra
-> `Yuki` runs to the fore, gets crit-dropped by chupacabra
-> `Rowena` `Tukai` `Horra` try to flank it, `Yuki` crawls away and goes invisible
+> [[Yuki]] runs to the fore, gets crit-dropped by chupacabra
+> [[Rowena]] [[Tukai]] [[Horra]] try to flank it, [[Yuki]] crawls away and goes invisible
 
 **kick in the door** into the next room
 
 > [!danger] Skeletons
-> a dozen skeletons from great hall converge on the doorway, held by `Rowena` and `Tukai`
-> `Urist` gets sniped right away
-> `Rowena` holds the line and tanks tens of skeleton attacks, but inevitably nabs a few punches
-> `Tukai` desperately tries to find a bludgeoning weapon he can use effectively
-> skeletons amass and fuse into a Skeleton Giant, that approaches and drops `Rowena` and Horra
-> `Yuki` narrowly downs the lumbering bone mass with Telekinetic Projectiles
+> a dozen skeletons from great hall converge on the doorway, held by [[Rowena]] and [[Tukai]]
+> [[Urist]] gets sniped right away
+> [[Rowena]] holds the line and tanks tens of skeleton attacks, but inevitably nabs a few punches
+> [[Tukai]] desperately tries to find a bludgeoning weapon he can use effectively
+> skeletons amass and fuse into a Skeleton Giant, that approaches and drops [[Rowena]] and Horra
+> [[Yuki]] narrowly downs the lumbering bone mass with Telekinetic Projectiles
 
 one hour of recovering from the near-TPK
 into the room, find a key, open locked door to narrow and long corridor ahead
 
 > [!danger] Minotaur
-> `Tukai` opens with sending Horra to charge crit the Minoraur and also critting him himself
-> on death's door, the Minotaur responds by crit-oneshotting `Horra`
-> `Yuki` finishes him off with Magic Missile
+> [[Tukai]] opens with sending Horra to charge crit the Minoraur and also critting him himself
+> on death's door, the Minotaur responds by crit-oneshotting [[Horra]]
+> [[Yuki]] finishes him off with Magic Missile
 
 ### Session 14 / 2022-09-04
 
 party passes into Bramble corridor
-`Rowena` goes first and is separated by dark root wall from rest of party
+[[Rowena]] goes first and is separated by dark root wall from rest of party
 they mash her on the wall trying to pull her through
 
 > [!question] arcane sigils: "How many dryads are imprisoned on the roof?" 
@@ -66,7 +66,7 @@ they mash her on the wall trying to pull her through
 > a big fat zone of Entangle
 > the tree's roots sprawled across the room, they savage the party every round
 > inching closer to the TPK
-> `Urist` buys a few seconds with lvl 1 Heal through Wajabat, end result is the same
+> [[Urist]] buys a few seconds with lvl 1 Heal through Wajabat, end result is the same
 > > ashes, ashes, we all fall down
 
 > [!example] Vision: θολες φιγουρες
@@ -89,8 +89,8 @@ they mash her on the wall trying to pull her through
 σηκωνομαστε εμβρονητοι κατω απο καμενο δεντρο
 ακολουθουμε μακρυ διαδρομο πισω στην εισοδο
 ο [[Al]] εχει συνθλιβει απο την παγιδα, το χερι του πολτος
-τον σηκωνει `Rowena` με κριτ αθλετιξ σε φορειο απο πηγαδι
-συντομη διαμαχη με `Tukai` για το αν πρεπει να τον καψουμε ή να τον θαψουμε
+τον σηκωνει [[Rowena]] με κριτ αθλετιξ σε φορειο απο πηγαδι
+συντομη διαμαχη με [[Tukai]] για το αν πρεπει να τον καψουμε ή να τον θαψουμε
 εν τελει τον θαβουμε και βαζουμε ενα μικρο cairn απο πανω, last rites, πισω στη λασπη
 κλεινουμε το πηγαδι με το ritual που βρηκαμε στις σημειωσεις του [[Al]]
 > crit-nailed the incantation! enunciation classes at the academy actually proved useful
@@ -98,3 +98,6 @@ they mash her on the wall trying to pull her through
 > [!check] λεβελ ωπ
 > mouuunt up: to Melinor!
 
+---
+
+next up: [[Chapter 05 - Melario]]

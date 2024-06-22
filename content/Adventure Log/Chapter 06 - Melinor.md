@@ -16,7 +16,7 @@ enter the city, through the pretty neighbourhoods
 [[Alaris]] shows slot in secret wooden door/wall and takes his leave
 slotting the coins in
 the door opens, elves and humans within, secret service, ask for the 5 coins, we attest that the 5th ([[Al]]) didn't make it
-`Urist` is debriefed by the agents, ριχνουν αδεια για να πιασουν γεματα
+[[Urist]] is debriefed by the agents, ριχνουν αδεια για να πιασουν γεματα
 
 agent [[Ian]] μας οδηγει προς παλατι, υπαρχει συνωστισμος
 στο αμφιθεατρο κοσμος, εχει ακροαση, καθεται πιο κατω ο [[Alaris]]
@@ -75,9 +75,9 @@ he's fine, διαολοστελνει τον φρουρο και πετα το �
 δεχεται να παραμεινει σε ενα κελι μεχρι την επομενη ακροαση (αν και μπορει να σηκωθει να φυγει οποτε θελει μονος του)
 τους κανει μια ντηλια, πως αν βρεθουν αποδειξεις απο pactkeepers οτι οντως το Oventhart συνεργαζεται με Crimson Steel, η κουβεντα σταματαει εκει και δινουν στον [[Seriatul]] το Wolf's Mouth
 
-as he's led away, `Rowena` casts *Message* to [[Droghor]] 
+as he's led away, [[Rowena]] casts *Message* to [[Droghor]] 
 
-> `Rowena`
+> [[Rowena]]
 > Hey, the Crimson Steels have been after us through Oventhart channels, how can we get in touch with the investigation?"
 > `Droghor`
 > Speak with [[Sho-Izun]].
@@ -91,10 +91,10 @@ as he's led away, `Rowena` casts *Message* to [[Droghor]]
 > hope to sort it out until the next audience, it's been bothersome
 > if you ever want to meet, get to specific tavern leave message to specific innkeeper or waitress
 
-@ Melinor palace
+**@ Melinor palace**
 [[Ian]] μας αφηνει σε φρουρους με πιο περιτεχνη παλατινη πανοπλια
 
-@ Royal Wizard's tower
+**@ Royal Wizard's tower**
 στην κορυφη δυο πορτες
 δεξια πορτα, σαν χωρος υποδοχης και εργασιας ταυτοχρονα
 royal mage approaches
@@ -112,11 +112,11 @@ royal mage approaches
 ### Session 20 / 2023-07-25
 
 [[Denkas]] asks how [[Al]] died
-`Wajabat` offers to show memory of what happened
+[[Wajabat]] offers to show memory of what happened
 > [!example] Wajabat's memory
-> prodded by `Yuki` to do something, sprouted ley lines at great pain, eased when `Yuki` casts arcane surge, same with `Urist`'s casting
-> `Wajabat` connects party through the dungeon runes with Al
-> `Wajabat` perceives magic through Al's eyes, vice versa
+> prodded by [[Yuki]] to do something, sprouted ley lines at great pain, eased when [[Yuki]] casts arcane surge, same with [[Urist]]'s casting
+> [[Wajabat]] connects party through the dungeon runes with Al
+> [[Wajabat]] perceives magic through Al's eyes, vice versa
 > Al hesitates to help, then begins to cast, wall grinds his hand
 > Al's arcane power spell goes off, and then the connection is lost as Al presumably died
 
@@ -150,16 +150,16 @@ he paces around skimming book about chronomancy (author: ambitious human mage 50
 
 ## 5 Snowmelt 4818
 
-pick clothes for `Tukai`
-go out with `Urist` to establish informant underground network
+pick clothes for [[Tukai]]
+go out with [[Urist]] to establish informant underground network
 
-προς τ απογιομα, περαστικος προσφωνει `Tukai` με το ονομα του πατερα του
-`Tukai` τον παιρνει στο κατοπι και τον ανακρινει απ τον γιακα στη μεση του δρομου να μαθει πού ξερει για τον πατερα του
-`Urist` `Rowena` τον αφηνουμε να οδηγηθει στο σπιτι του πατερα του εξω απ την πολη και παμε για contact του [[Ian]], κλεινουμε μεταμεσονυκτιο ραντεβου κατω απο το αμφιθεατρο
+προς τ απογιομα, περαστικος προσφωνει [[Tukai]] με το ονομα του πατερα του
+[[Tukai]] τον παιρνει στο κατοπι και τον ανακρινει απ τον γιακα στη μεση του δρομου να μαθει πού ξερει για τον πατερα του
+[[Urist]] [[Rowena]] τον αφηνουμε να οδηγηθει στο σπιτι του πατερα του εξω απ την πολη και παμε για contact του [[Ian]], κλεινουμε μεταμεσονυκτιο ραντεβου κατω απο το αμφιθεατρο
 
 ### Session 21 / 2023-08-08
 
-`Yuki` σκαει στο πανδοχειο οπου αραζουμε και μοιραζεται δευτερη ενδιαφερουσα σελιδα απο Al's spellbook
+[[Yuki]] σκαει στο πανδοχειο οπου αραζουμε και μοιραζεται δευτερη ενδιαφερουσα σελιδα απο Al's spellbook
 
 > [!quote] Ian
 > φοβαμαι πολυ οτι θα καουμε
@@ -170,7 +170,7 @@ go out with `Urist` to establish informant underground network
 > η μυστικη υπηρεσια παντα πρεπει να παρει εγκριση απο το παλατι για να κανει οτιδηποτε
 > ο [[Mondir]] θεωρητικα ειναι ενας κομβος απο τον οποιον περνανε οι ντιρεκτιβες
 
-`Tukai` ρωτα για γεγονοτα πριν μηνες (τα οποια να συμπεφτουν με την φυγη του πατερα του [[Taurlin]] απο την πολη προς τα δυτικα)
+[[Tukai]] ρωτα για γεγονοτα πριν μηνες (τα οποια να συμπεφτουν με την φυγη του πατερα του [[Taurlin]] απο την πολη προς τα δυτικα)
 ρωταει αν επιτρεπονται beastkin στην πολη, καταλαβαινει ο Ian οτι ειναι beastkin και κανει τη συνδεση
 > [!quote] Ian
 > πριν 5-6 μηνες ηταν η τελευταια πανσεληνος που εγινε κατι, 1 νεκρος, σε μια αλλη πανσεληνο πιο πριν ειχαμε μιση ντουζινα τραυματιες, σε κατι 3-4 πανσεληνους συνεβη να φυγουν 1-2 ατομα
@@ -185,29 +185,29 @@ as we pull ourselves up, knife guy opens door and pulls knife in amazement
 
 > [!danger] safehouse assassins
 > - Mr.Knife throws knife and ducks behind door frame
-> - `Tukai` `Horra` `Rowena` dash to murder him
-> - 4 more assassins appear from the hallways, Mr.Rapier zeroes in on `Urist` and 3 archers loose away
-> - `Rowena` takes point trapping Mr.Rapier behind her to be flanked down, he slips past her at his comrades' urging, they interact with wall furniture behind them to reveal spear lance rocket sockets
-> - one spear lance tears by `Horra` `Yuki`, one other narrowly glances by `Rowena`
-> - `Yuki`'s mother among the archers, looses 3 arrows clinking on `Rowena`, _"that the best you can do, Mrs. D' Angelo?",_ which prompts `Yuki` to step forth incredulously
-> - `Rowena` `Horra` charge into the faces of the two manning the wall furniture trap, Mr.Rapier is crit-shot through the eye
-> - they activate 2nd functionality to drop the top contents of "bookshelves" onto `Rowena` `Horra`
-> 	- `Rowena` crit-buried under the metal-bound "books", `Tukai` `Urist` `Yuki` open fire from behind
-> - `Yuki` lets burst an arcane heal, `Rowena` immediately comes to, grasps her staff and swings it while prone to crit-break both of the furniture-operator's legs
-> - `Tukai` `Yuki` drop the last one and `Urist` calls for Yuki's mother to stand down, she drops her bow, kneels down and weeps
+> - [[Tukai]] [[Horra]] [[Rowena]] dash to murder him
+> - 4 more assassins appear from the hallways, Mr.Rapier zeroes in on [[Urist]] and 3 archers loose away
+> - [[Rowena]] takes point trapping Mr.Rapier behind her to be flanked down, he slips past her at his comrades' urging, they interact with wall furniture behind them to reveal spear lance rocket sockets
+> - one spear lance tears by [[Horra]] [[Yuki]], one other narrowly glances by [[Rowena]]
+> - [[Yuki]]'s mother among the archers, looses 3 arrows clinking on [[Rowena]], _"that the best you can do, Mrs. D' Angelo?",_ which prompts [[Yuki]] to step forth incredulously
+> - [[Rowena]] [[Horra]] charge into the faces of the two manning the wall furniture trap, Mr.Rapier is crit-shot through the eye
+> - they activate 2nd functionality to drop the top contents of "bookshelves" onto [[Rowena]] [[Horra]]
+> 	- [[Rowena]] crit-buried under the metal-bound "books", [[Tukai]] [[Urist]] [[Yuki]] open fire from behind
+> - [[Yuki]] lets burst an arcane heal, [[Rowena]] immediately comes to, grasps her staff and swings it while prone to crit-break both of the furniture-operator's legs
+> - [[Tukai]] [[Yuki]] drop the last one and [[Urist]] calls for Yuki's mother to stand down, she drops her bow, kneels down and weeps
 
-η μανα του `Yuki` τον παρακαλα να σταματησει να ασχολειται, κι οτι αυτο ειναι λημερι και δεν υπαρχει κανεις αλλος προς το παρον αλλα ερχονται και φευγουν 
+η μανα του [[Yuki]] τον παρακαλα να σταματησει να ασχολειται, κι οτι αυτο ειναι λημερι και δεν υπαρχει κανεις αλλος προς το παρον αλλα ερχονται και φευγουν 
 
-`Yuki` ασχολειται με μανα του, `Tukai` φροντιζει `Horra` και ντερλικωνει στο κελαρι
-`Rowena` `Urist` επιθεωρουν το χωρο
+[[Yuki]] ασχολειται με μανα του, [[Tukai]] φροντιζει [[Horra]] και ντερλικωνει στο κελαρι
+[[Rowena]] [[Urist]] επιθεωρουν το χωρο
 
-- κελαρι με φαγια, κατασχονται παστα κρεατα τυρια καρροτα, `Rowena` τρωει τηγανητα αυγα και μπιφτεκια που δεν προλαβαν οι νοικαρηδες να φανε πριν τους μακελεψουμε
+- κελαρι με φαγια, κατασχονται παστα κρεατα τυρια καρροτα, [[Rowena]] τρωει τηγανητα αυγα και μπιφτεκια που δεν προλαβαν οι νοικαρηδες να φανε πριν τους μακελεψουμε
 - ψηλα δωματιο σαν εκκλησια με παγκους και ιερο, στο βωμο ==καταλογος με μαγους== (καταλογογραφηση απο head wizard, για συνεργασιες?)
 	- παγκοι παραγωγης δηλητηριων, 12gp + 5 minor healing pots + 5+5 vials
 - κρυπτη με παραβιασμενους ρουνους, τρεις σαρκοφαγοι μεσα, παλι με παραβιασμενους ρουνους, με μονο τους σκελετους μεσα, επιγραφη =="Andren and Vilya Fanthyl"==
 
-`Rowena` `Urist` bash door open to room with deep pool
-σεντουκι στο βαθος, `Rowena` βγαζει πανοπλια και βουτα, 40 δευτερολεπτα για να κολυμπησει 40ft πανω, να δεσει *το* σκοινι απο κατω και κομπο, και παλι πανω
+[[Rowena]] [[Urist]] bash door open to room with deep pool
+σεντουκι στο βαθος, [[Rowena]] βγαζει πανοπλια και βουτα, 40 δευτερολεπτα για να κολυμπησει 40ft πανω, να δεσει *το* σκοινι απο κατω και κομπο, και παλι πανω
 στο σεντουκι, περισσοτερα απο τα βαριδια της παγιδας, ενα σωρο νομισματα, και ==εμβλημα του παλατιου== με το ονομα [[Vonglir Astaeth]]
 
 ### Session 22 / 2023-11-14
@@ -216,28 +216,28 @@ as we pull ourselves up, knife guy opens door and pulls knife in amazement
 χτυπαει το αλαρμ στην εισοδο και ξεχυνονται ξαφνικα κι αλλοι μεσα
 
 > [!danger] safehouse assassins
-> two mooks slip on `Urist`'s ice slick snare, one of the sergeants on `Yuki`'s Grease
-> the sergeants flank `Yuki` and stab him down, one more enters the room where [[Aster]] is, never makes it out
-> `Tukai` `Urist` fight desperately from lower corridor, μετα βιας βγαινει το ξυλο
-> `Rowena` `Horra` προσπαθουν να κρατησουν τα μποσικα στη διασταυρωση
-> an *enlarged* and pissed off `Rowena` catches up to the last one trying to get away up the ladder, yanks him by the ankles and smashes his head into the wall
+> two mooks slip on [[Urist]]'s ice slick snare, one of the sergeants on [[Yuki]]'s Grease
+> the sergeants flank [[Yuki]] and stab him down, one more enters the room where [[Aster]] is, never makes it out
+> [[Tukai]] [[Urist]] fight desperately from lower corridor, μετα βιας βγαινει το ξυλο
+> [[Rowena]] [[Horra]] προσπαθουν να κρατησουν τα μποσικα στη διασταυρωση
+> an *enlarged* and pissed off [[Rowena]] catches up to the last one trying to get away up the ladder, yanks him by the ankles and smashes his head into the wall
 > > puny mook.
 
-`Rowena` `Tukai` wasting away from mysterious poison (must have been the cheese)
+[[Rowena]] [[Tukai]] wasting away from mysterious poison (must have been the cheese)
 go out into the street, unconscious mook on shoulders, towards the safehouse
-`Tukai` mewls the whole way before dropping down face first (he got better)
-`Rowena` tanks it through (if only barely)
-> `Tukai`
+[[Tukai]] mewls the whole way before dropping down face first (he got better)
+[[Rowena]] tanks it through (if only barely)
+> [[Tukai]]
 > _( dramatised reenactment )_
 > I'm dyiiinngg, nooo, don't waste any potions on me, I'll die anyway, aaa
-> `Rowena` 
+> [[Rowena]] 
 > _( also dying **and** carrying 200 lbs of load )_
 > ***ShUt yOuR bLoODy GOb***
 
 ### Session 23 / 2023-12-19
 
 walk towards the safehouse
-`Urist` spots undercover cop gesturing to him, we follow, he weaves through the streets
+[[Urist]] spots undercover cop gesturing to him, we follow, he weaves through the streets
 leads to ladder and entrance to safehouse, one more agent within, one more following us, turns out to be Ian
 Ian visibly pleased, sends away other two agents
 asks [[Aster]] to explain
@@ -274,7 +274,7 @@ interrogate the captured CS mook "Jonathan"
 > αν πιασουμε εναν απο σας οι υπολοιποι μπορουν να φυγουν, χρειαζομαστε μονο εναν
 > πριν εναμισι χρονο εμενα στην Αρμπαντερ, ο αρχηγος εκει εστειλε κοσμο εδω για ενισχυσεις
 
-unwilling to give name of chief, `Rowena` presses his bruised side of the head to the table
+Jonathan unwilling to give name of chief, [[Rowena]] presses his bruised side of the head to the table
 > [!quote] CS mook: Jonathan
 > ο αρχηγος λεγοταν [[Wallot]]
 > η δικια μου ομαδα σιγουρα πανω απο 20 ατομα
@@ -286,7 +286,7 @@ unwilling to give name of chief, `Rowena` presses his bruised side of the head t
 
 
 
-> `Rowena`
+> [[Rowena]]
 >  Δαχτυλοοο, νουμερο ενα: αυτο το γουρουνακι πηγε στην αγορα.
 >  _( breaks his left pinky )_
 
@@ -324,7 +324,7 @@ unwilling to give name of chief, `Rowena` presses his bruised side of the head t
 > majority is still orcs, with a few elves as well
 
 παμε στα διαμερισματα του [[Denkas]], ανοιγει βιαστικα και γυρναει στο διπλα δωματιο 5 λεπτα, κατι μαγειρευε εκει
-`Urist` του δινει να διαβασει το βιβλιο των CS, νευριαζει παρα πολυ ασχημα
+[[Urist]] του δινει να διαβασει το βιβλιο των CS, νευριαζει παρα πολυ ασχημα
 > [!quote] Denkas
 > ειχατε δικιο, σας οφειλω μια συγγνωμη, σας ακολουθουσαν οντως με τα κερματα
 > μονο εγω ηξερα που βρισκεστε, αλλα το λεγα στον [[Mondir]]
@@ -333,10 +333,10 @@ unwilling to give name of chief, `Rowena` presses his bruised side of the head t
 > η γραμμη συνταχθηκε απο τους στρατηγους, ελεγε οτι χωρις αλλη λυση μπορουμε να τις παιξουμε με τον Seriatul χωρις τη στηριξη του απο το Dragonpact
 > ο Μοντιρ προσπαθουσε να προκαλεσει τον Σεριατουλ να κατεβει και να κανει ζημια ωστε να υλοποιηθουν οι συνθηκες για αυτο
 
-show Denkas the [[Vonglir Astaeth]]'s emblem
+show Denkas [[Vonglir Astaeth]]'s emblem
 
-`Tukai` seeks to go straight to Mondir and murder him or something, `Yuki` steps away
-`Rowena` about to lose her shite trying to make `Tukai` realise he's not in his stupid backwater wilderness
+[[Tukai]] seeks to go straight to Mondir and murder him or something, [[Yuki]] steps away
+[[Rowena]] about to lose her shite trying to make [[Tukai]] realise he's not in his stupid backwater wilderness
 > while also wanting to murder someone or something and fast, all this is getting on my nerves
 > is monsieur le Mondir on the list yet?
 
@@ -355,7 +355,7 @@ Denkas arranges for visit to [[Droghor]] in the dungeon
 
 ###  Session 25 / 2024-04-03
 
-`Tukai` smells [[Vonglir Astaeth]]'s badge to get his smell
+[[Tukai]] smells [[Vonglir Astaeth]]'s badge to get his smell
 
 off to check out his mansion
 on the north road, then west at the crossroads
@@ -363,9 +363,9 @@ walk through his fields
 sit at a distance and dispute our course of action
 wait till nightfall and approach the mansion
 
-`Tukai` climbs the wall and lockpicks window with open shutters
+[[Tukai]] climbs the wall and lockpicks window with open shutters
 we climb inside the guesthouse
-`Yuki` slaps invisibility on `Tukai`
+[[Yuki]] slaps invisibility on [[Tukai]]
 goes off to scout out the rooms
 
 picks up the scent of a woman
@@ -375,11 +375,11 @@ picks up the stench of corpses
 > not kinky
 
 the general's wife is up and making the rounds
-`Tukai` grabs a bunch of notes from the general's office
+[[Tukai]] grabs a bunch of notes from the general's office
 she opens the door to check, doesn't see him, goes back out into the corridor and softly calls to the guards
 
-`Tukai` tries to run after her and knock her out, misses and keeps running past
-she calls out to him like "wait"
-> run Tukai run
+[[Tukai]] tries to run after her and knock her out, misses and keeps running past her
+she calls out to him like "wait I just wanna talk"
+> _νΝνΑι κΚαΛΑ!_ τρεχαΤουκανΝταν τρεχα
 
 we jump out the window and sprint away through the field

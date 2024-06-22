@@ -1,7 +1,7 @@
 # Rowena Annwyn Raerundlin
 
 female half-elf battlemage (of the jock variety)
-dirty blond hair in a braid, eerie blue eyes, unnerving grin, athletic physique
+blond hair in a braid, eerie blue eyes, unnerving grin, athletic physique
 clad in plate armour, bastard sword slung on back, steel-capped quarterstaff in hand
 smells of hot iron
 

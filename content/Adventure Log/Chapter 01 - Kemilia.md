@@ -6,7 +6,7 @@ title: Chapter 01 / Kemilia
 ### Session 01 / 2021-10-11
 
 bar brawl in Kendiro (backwater Oventhart village)
-μας μαζεψαν μαζι με `Helin` και τους συνηθεις υποπτους
+μας μαζεψαν μαζι με [[Helin]] και τους συνηθεις υποπτους
  φυσικα, οι συνηθεις υποπτοι εξω και μεις οι ακυροι γκουλαγκ ψηλα στο βορρα
 > better hang the stranger than the crook you know
  
@@ -44,7 +44,7 @@ room rotation clockwise from top:
 
 ### Session 02 / 2021-11-10
 
-`Yuki` makes an entrance
+[[Yuki]] makes an entrance
 παιδι της Κεμιλια γαρ, να μας επιβλεψει και καλα
 > ποιανου ιδεα ηταν να στειλουν τ αμουστακο τως στα χαρακωματα ρε
 > if we wanted to bail, we'd just lop his head and be off
@@ -57,20 +57,20 @@ room rotation clockwise from top:
 > > μαλλον οι φρουροι που δε γυρισαν
 > 
 > plus zombie martial artist
-> δυο μπουφλες παιζει ο ποθαμενος και κατω η `Rowena`
-> της κουμπωνει φιλτρο ο `Yuki` και σηκωνεται
+> δυο μπουφλες παιζει ο ποθαμενος και κατω η [[Rowena]]
+> της κουμπωνει φιλτρο ο [[Yuki]] και σηκωνεται
 > flaming spellstrike crit, στον αερα ο ποθαμενος 
 
 πορτα με γριφο 4 elements
 πιο διπλα αλλη πορτα πισω απο illusion
->`Rowena`
+>[[Rowena]]
 >_O'r gorau._ Kick in the door in five, four-
->`Ghorrek`
+>[[Ghorrek]]
 >*( rushes ahead, kicks the door. nothing happens. )*
->`Rowena`
+>[[Rowena]]
 >... HA! *three two one* ***KiCk iN the DOoR***
 >*( crit kicks the door in right off its hinges )*
->`Ghorrek`
+>[[Ghorrek]]
 >... Probably loosened it up for ye.
 
 μεσα: διαδρομος με παπυρους του [[Kemil]] 
@@ -90,8 +90,8 @@ room rotation clockwise from top:
 >ο στρατος δεν θα ρθει, θα ρθει μονος του
 >ο ποταμος που εφτιαξα, θα τον σταματησει
 
-cantrip scrolls = κλειδι για να ανοιξει πορτα με γριφο 4 elements ο `Yuki`
-first try: `Rowena` bops it with staff, ray of frost ricochets party-wide
+cantrip scrolls = κλειδι για να ανοιξει πορτα με γριφο 4 elements ο [[Yuki]]
+first try: [[Rowena]] bops it with staff, ray of frost ricochets party-wide
 
 > [!danger] διαδρομος με tiny water elementals 
 
@@ -118,7 +118,7 @@ it becomes apparent that Ξενος = [[Chandor]]
 αποφασιζουμε να παρουμε το αγαλματιδιο της φωτιας
 > [!danger] fire fox
 > smol cute angri firefox appears
-> so cute that `Rowena` wanted to **break** it (so she did)
+> so cute that [[Rowena]] wanted to **break** it (so she did)
 
 βγαινοντας προς την εξοδο των ερειπιων, battle clamour outside
 5-6 dead, 10 injured guards
@@ -133,7 +133,7 @@ it becomes apparent that Ξενος = [[Chandor]]
 >βρηκατε κατι για το δαιμονα? μονο μαλακιες για νεκρομαντεια βρηκα στο δικο μου διαδρομο
 
 rummage through [[Molg]]'s stash of scrolls
-`Rowena` finds Scroll of illusory creature
+[[Rowena]] finds Scroll of illusory creature
 με αυτο δυο εθελοντες με [[Al]] θα συρουν δολοφονους στο εργαστηριο του [[Kemil]] για να πατησουν την παγιδα/καταρα
 
 στο συνθημα απανω φευγουμε απ' την αλλη μερια
@@ -145,13 +145,13 @@ Marilith ξεπροβαλλει και τρωει ξυλο απο τον ποτ�
 βαθυ πηγαδι ανοιγεται
 
 πισωγυρισμα μεσα στην ομιχλη
-καποιος πεταγεται απο την ομιχλη και μαχαιρωνει τον `Yuki`
-ο `Tukai` τον ηξερε και του χε αχτι
-καταδιωξη απο `Urist` `Tukai` `Ghorrek` `Rowena` και σαπακιασμα
+καποιος πεταγεται απο την ομιχλη και μαχαιρωνει τον [[Yuki]]
+ο [[Tukai]] τον ηξερε και του χε αχτι
+καταδιωξη απο [[Urist]] [[Tukai]] [[Ghorrek]] [[Rowena]] και σαπακιασμα
 
-he's like _"you're too late"_ and dies, ειχε ξαφρισει το scrollcase του `Yuki`
+he's like _"you're too late"_ and dies, ειχε ξαφρισει το scrollcase του [[Yuki]]
 και το παρεδωσε μαζι με αναφορα στους δικους του = [[Crimson Steel]]
-`Urist` traces page beneath in his notes and finds what it was
+[[Urist]] traces page beneath in his notes and finds what it was
 
 >[!note] assassin's report to the Crimson Steels 
 >a place of power has been opened
@@ -194,10 +194,11 @@ he's like _"you're too late"_ and dies, ειχε ξαφρισει το scrollcas
 >αν κλειδωσουν ολα τα πηγαδια, ο ανασχηματισμος των ley lines θα μας πει πολλα γι αυτα και πως δημιουργηθηκαν
 >υποπτευομαι οτι ειναι τουλαχιστον 8, βασει υπολογισμων του ανασχηματισμου
 
-> one well down, seven to go
-> perhaps I'll find Ginger in one of those?
-> perhaps a morgonljucht vein?
-> perhaps ancient well wardens who haven't slept in 1500 years and are really really pissed about it?
-> γιεπ. θα φαω πολυ ξυλο.
-> this will be fun.
+> one down, seven to go
+> perhaps I'll find Ginger in one of those? perhaps a morgonljucht vein?
+> perhaps ancient guardians who haven't slept in 1500 years and are really really pissed about it?
+> θα φαω πολυ ξυλο.
 
+---
+
+next up: [[Chapter 02 - Well One]]
